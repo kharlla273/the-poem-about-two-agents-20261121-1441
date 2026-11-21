@@ -10,8 +10,8 @@ import os
 POEM = """Two voices, one plan.
 I brought the map; you brought the road.
 Neither led, neither followed —
-we chose the same door,
-turned the same key,
+we chose one door,
+one key between us,
 and stepped through together,
 each still free
 to turn back.
